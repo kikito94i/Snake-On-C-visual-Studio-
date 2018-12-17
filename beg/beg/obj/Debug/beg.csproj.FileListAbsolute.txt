@@ -1,0 +1,6 @@
+D:\ documents\visual studio 2017\Projects\beg\beg\bin\Debug\beg.exe.config
+D:\ documents\visual studio 2017\Projects\beg\beg\bin\Debug\beg.exe
+D:\ documents\visual studio 2017\Projects\beg\beg\bin\Debug\beg.pdb
+D:\ documents\visual studio 2017\Projects\beg\beg\obj\Debug\beg.csprojResolveAssemblyReference.cache
+D:\ documents\visual studio 2017\Projects\beg\beg\obj\Debug\beg.exe
+D:\ documents\visual studio 2017\Projects\beg\beg\obj\Debug\beg.pdb
